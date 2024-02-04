@@ -1,6 +1,6 @@
 # CW2-Frontend-main
-Github Repo link https://github.com/izzykeshinbest/CW2-Frontend-main.git
-Github Pageshttps://izzykeshinbest.github.io/CW2-Frontend-main/
+Github Repo link [https://github.com/izzykeshinbest/CW2-Frontend](https://github.com/izzykeshinbest/CW2-Frontend)-main.git
+GitHub Pages https://izzykeshinbest.github.io/CW2-Frontend-main/
 
 Github repo backend: https://github.com/izzykeshinbest/CW2-Backend.git
 
